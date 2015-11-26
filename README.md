@@ -1,3 +1,3 @@
 #gobromius
 
-<a href="gobromius.appspot.com">gobromius</a>
+<a href="http://gobromius.appspot.com">gobromius</a>
